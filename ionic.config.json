@@ -1,0 +1,8 @@
+{
+  "name": "dondusang",
+  "app_id": "ca314a8a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
